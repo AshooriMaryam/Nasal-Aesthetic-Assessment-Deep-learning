@@ -1,6 +1,6 @@
 ## Supplementary Material 
 
-Our project builds upon the findings and methodologies presented in the paper "An automatic framework for nasal aesthetic assessment by ResNet convolutional neural network"(https://link.springer.com/article/10.1007/s10278-024-00973-7)  
+Our project builds upon the findings and methodologies presented in the paper "**An automatic framework for nasal aesthetic assessment by ResNet convolutional neural network**"(https://link.springer.com/article/10.1007/s10278-024-00973-7)  
 
 ### Citation 
 Please cite our work as follows:
